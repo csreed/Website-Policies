@@ -1,6 +1,6 @@
 # Comments Policy
 
-As you know, Web 2.0 is all about the conversation. But without a few simple ground rules, that conversation can turn into a shouting match that discourages others from entering into the fray.
+As you know, the web is all about the conversation. But without a few simple ground rules, that conversation can turn into a shouting match that discourages others from entering into the fray.
 
 So here is my comments policy. By posting on my blog, you agree to the following:
 
