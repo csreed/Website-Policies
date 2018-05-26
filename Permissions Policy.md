@@ -32,7 +32,7 @@ If you have some use for my content that is not covered here, please contact me.
 
 [![CC BY-NC-SA][CCLOGO]](http://creativecommons.org/licenses/by-nc-sa/3.0/)
 
-[CCLOGO]: http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png "Creative Commons BY-NC-SA License"
+[CCLOGO]: http://i.creativecommons.org/l/by-nc-sa/3.0/80x15.png "Creative Commons BY-NC-SA License"
 
 
 *This policy is based largely on [Michael Hyatt’s Permissions Policy](http://michaelhyatt.com/permissions), with some modifications. I’m using it (and sharing it alike) under a [Creative Commons license](http://creativecommons.org/licenses/by-nc-sa/3.0/).*
