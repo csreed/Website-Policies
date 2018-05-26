@@ -5,7 +5,6 @@ With the exception of “guest posts” written by others (see the bottom of thi
 
 
 ## Without My Permission
-
 You are free to do the following without my permission:
 
  - Link to my site or any specific post on my site.
@@ -21,12 +20,12 @@ You must have my express written consent to do any of the following:
  - Alter, transform, or build upon this work.
 
 ## Re-posting and Translation Rights
-I do not permit the re-posting of my posts in their entirely. I am honored that you find my content that compelling and welcome you to excerpt it and refer your readers to my site for the full, original post.
+I do not permit the re-posting of my posts in their entirety. I am honored that you find my content that compelling and welcome you to excerpt it and refer your readers to my site for the full, original post.
 
 In addition, I don’t allow the translation and publication of my work in other languages. I simply don’t have the resources to validate the quality of the work.
 
 ## Guest Posts
-Guest bloggers retain the copyright to the posts they write. The above permissiong guidelines do not apply to their work. If you are interested in re-posting or publishing their content, you must contact them directly. I cannot serve as a broker, agent, or contact point.
+Guest bloggers retain the copyright to the posts they write. The above permission guidelines do not apply to their work. If you are interested in re-posting or publishing their content, you must contact them directly. I cannot serve as a broker, agent, or contact point.
 
 If you have some use for my content that is not covered here, please contact me.
 
